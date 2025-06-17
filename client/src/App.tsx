@@ -4,7 +4,7 @@ function App() {
   return (
     <>
       <header>
-        <h1 className="logo">JS Monorepo</h1>
+        <h1 className="logo">Wild wild west</h1>
       </header>
 
       <nav className="navbar">
@@ -37,14 +37,14 @@ function App() {
 
       <main className="text-box">
         <hgroup className="block-primary">
-          <h2 className="block-primary-main">JS Monorepo</h2>
+          <h2 className="block-primary-main">Welcome to Wild-series</h2>
           <p className="block-primary-sub">Votre framework JavaScript</p>
         </hgroup>
-        <p>Vous avez lu le README ?</p>
+        <p>Vous avez lu le README ? Moi non plus !</p>
       </main>
 
       <footer>
-        Développé par la&nbsp;
+        Développé par CAYUELA Annick
         <a
           href="https://www.wildcodeschool.com/"
           className="wcs"
